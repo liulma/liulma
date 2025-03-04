@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Welcome to my profile 🌟
+### Welcome to my profile ✨
 
 I'm Linda, someone with a versatile experience in customer/software support, pursuing a career data engineering 🚀
 
