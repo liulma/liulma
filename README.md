@@ -22,12 +22,12 @@ I'm Linda, someone with a versatile experience in customer/software support, pur
 At the moment, my github mostly consists of exercises I've completed in my Data Engineering intensive training program @ Skillio, hence the funny repository names!
 
 📍 I've learned a lot during my training, for example:
-* Python
-* SQL
-* Power BI
-* Data Modeling
-* Data Warehousing
-* Microsoft Fabric
-* Azure
-* Azure Synapse Analytics
-* Azure Stream Analytics
+🌟 Python
+🌟 SQL
+🌟 Power BI
+🌟 Data Modeling
+🌟 Data Warehousing
+🌟 Microsoft Fabric
+🌟 Azure
+🌟 Azure Synapse Analytics
+🌟 Azure Stream Analytics
