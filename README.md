@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 
 <!--
 **liulma/liulma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Welcome to my profile 🌟
+
+I'm Linda, someone with a versatile experience in customer/software support, pursuing a career data engineering 🚀
+
+At the moment, my github mostly consists of exercises I've completed in my Data Engineering intensive training program @ Skillio, hence the funny repository names!
+
+📍 I've learned a lot during my training, for example:
+* Python
+* SQL
+* Power BI
+* Data Modeling
+* Data Warehousing
+* Microsoft Fabric
+* Azure Synapse Analytics
