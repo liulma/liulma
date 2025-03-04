@@ -30,3 +30,4 @@ At the moment, my github mostly consists of exercises I've completed in my Data 
 * Microsoft Fabric
 * Azure
 * Azure Synapse Analytics
+* Azure Stream Analytics
