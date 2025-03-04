@@ -28,4 +28,5 @@ At the moment, my github mostly consists of exercises I've completed in my Data 
 * Data Modeling
 * Data Warehousing
 * Microsoft Fabric
+* Azure
 * Azure Synapse Analytics
